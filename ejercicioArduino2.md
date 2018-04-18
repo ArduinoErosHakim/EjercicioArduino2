@@ -34,7 +34,7 @@ void loop() {
 ~~~
 ___
 ### Imágenes
-![Imagen Arduino](D:\DAM\Entornos/de/Desarrollo\Tercera/Evaluación\arduino.jpg "Arduino")
+![Imagen Arduino](arduino2.jpg "Arduino")
 ___
 ### Funcionalidad
 Realiza intervalos de luz sostenida de hasta cuatro segundos para reiniciarse de nuevo tras un segundo inactivo. 
